@@ -81,24 +81,24 @@ Add screenshots for each stage below after testing with Postman:
 ### 2. Transfer File Ownership (`/api/transfer/`)
 - _Screenshot: Transfer request and response_
 
-(check images/Screenshot 2025-07-16 085514.png)
+<img src="./images/Screenshot 2025-07-16 085514.png" />
 
 ### 3. Revoke File Transfer (`/api/revoke/`)
 - _Screenshot: Revoke request and response_
 
-(check images/Screenshot 2025-07-16 090155.png)
+<img src="./images/Screenshot 2025-07-16 090155.png" />
 
 ### 4. Transfer History (`/api/history/`)
 - _Screenshot: History response_
 
-(check images/Screenshot 2025-07-16 090220.png)
+<img src="./images/Screenshot 2025-07-16 090220.png" />
 
 ### 5. Django Admin (Database State)
 - _Screenshot: Admin panel showing Users, Files, and TransferHistory_
 
-(check images/Screenshot 2025-07-16 090611.png)
+<img src="./images/Screenshot 2025-07-16 090611.png"/>
 
-(check images/Screenshot 2025-07-16 090621.png)
+<img src="./images/Screenshot 2025-07-16 090621.png"/>
 
 ---
 
