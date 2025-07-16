@@ -76,7 +76,7 @@ Add screenshots for each stage below after testing with Postman:
 ### 1. Upload File (`/api/files/`)
 - _Screenshot: File upload request and response_ 
 
-(check images/Screenshot 2025-07-16 084910.png)
+<img src="./images/Screenshot 2025-07-16 084910.png" />
 
 ### 2. Transfer File Ownership (`/api/transfer/`)
 - _Screenshot: Transfer request and response_
