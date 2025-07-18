@@ -87,7 +87,7 @@ Add screenshots for each stage below after testing with Postman:
 ### 2. Transfer File Ownership (`/api/transfer/`)
 - _Screenshot: Transfer request and response_
 
-<img src="./images/Screenshot 2025-07-16 085514.png" />
+<img src="./images/Screenshot 2025-07-16 085541.png" />
 
 ### 3. Revoke File Transfer (`/api/revoke/`)
 - _Screenshot: Revoke request and response_
