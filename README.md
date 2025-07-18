@@ -30,7 +30,7 @@ This project is a Django REST API system for transferring and revoking file owne
    ```powershell
    python manage.py runserver
    ```
-
+<hr>
 - Before starting file transfer mock demo using the application, do not forget to login to Django admin dashboard with superuser credentials & create new users to transfer files from/to them. 
 - In postman while testing do not forget to set authorization to `Basic Auth`, and use username and password of the user you want to mimic.
 
